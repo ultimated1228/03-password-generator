@@ -5,9 +5,7 @@
 
 # Assignment 3 - JS Password Generator
 
-<h3 align="center">project_title</h3>
- 
-
+deployed site: ultimated1228.github.io/03-password-generator
 
 
 <!-- ABOUT THE PROJECT -->
